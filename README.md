@@ -13,7 +13,7 @@ This repository contains a project focused on clustering and segmentation using 
 ### Prerequisites
 - Python 3.8 or higher
 - Jupyter Notebook
-- Required Python libraries (install using `requirements.txt` if available):
+- Required Python libraries:
   - pandas
   - numpy
   - matplotlib
